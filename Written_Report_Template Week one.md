@@ -13,7 +13,7 @@
 
 ### Analysis of Outcomes Based on Goals
  - corelation was established between the goal amount in ranges with relative outcome. 
- !(resources/Outcomes_vs_Goals.png)
+!(resources/Outcomes_vs_Goals.png)
 !(https://github.com/Diana7e/kickstarter-analysis-/blob/6b6accda90570ed319ccc04c7d9bdb21cf2fab7a/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
